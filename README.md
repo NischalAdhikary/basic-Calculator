@@ -1,4 +1,4 @@
-The Simple Calculator is a basic application developed in [insert your programming language]. It performs standard arithmetic operations including addition, subtraction, multiplication, and division. This project is a great starting point for beginners to understand basic programming concepts and arithmetic operations.
+The Simple Calculator is a basic application developed in html,css and javascript. It performs standard arithmetic operations including addition, subtraction, multiplication, and division. This project is a great starting point for beginners to understand basic programming concepts and arithmetic operations.
 <ul>
 
 <li>Features</li>
